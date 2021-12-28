@@ -1,4 +1,5 @@
-### Oi, Bem Vindo ao meu perfil🤘
+### Oi, Bem Vindo ao meu perfi[octocat-github-emojipedia](https://user-images.githubusercontent.com/48030260/147590827-e6621486-50a0-47b4-8055-56a860f07087.png)
+
 
 <div align="center">
   <a href="https://github.com/ANTONIELSONSILVA">
