@@ -11,7 +11,7 @@
 
 </a> Oi, Bem Vindo ao meu perfil !!! :octocat: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-  <img src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/octocat-github-emojipedia.png" width="30px" style="max-width: 100%;"> 
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="30px" style="max-width: 100%;"> 
 
 </a>
 
