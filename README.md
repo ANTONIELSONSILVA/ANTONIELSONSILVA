@@ -1,4 +1,4 @@
-:welcomeglitch: ## Oi, Bem Vindo ao meu perfil !!! :octocat:
+# Oi, Bem Vindo ao meu perfil !!! :octocat:
 
 
 <div align="center">
