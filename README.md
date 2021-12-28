@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="max-width: 100%;"></a><h3> Oi, Bem vindo ao meu perfil !!! </h3>:octocat: 
-
-
 <p align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif">
 <img align="center" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="300px" style="max-width: 100%;">
 </a>
   
